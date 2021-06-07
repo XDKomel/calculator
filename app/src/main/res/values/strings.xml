@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="divisionOnZeroError">You cannot divide on zero!</string>
+</resources>
